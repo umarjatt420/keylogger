@@ -1,0 +1,5 @@
+cffi==1.16.0
+pycparser==2.21
+python-xlib==0.33
+pyxhook==1.0.0
+six==1.16.0
